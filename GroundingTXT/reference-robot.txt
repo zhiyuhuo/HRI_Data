@@ -1,0 +1,19 @@
+IRMRP ON on DT the DIR right 
+IRMRP RB ahead TO to PRP your DIR left 
+IRMRP TO to DT the DIR right 
+IRMRP RB ahead TO to PRP your DIR left 
+IRMRP TO to DT the RB right 
+IRMRP TO to DT the DIR right 
+IRMRP RB directly TO to DT the DIR right 
+IRMRP ON on DT the DIR right 
+IRMRP RB ahead TO to DT the DIR left 
+IRMRP ON on DT the JJ far DIR right 
+IRMRP RB directly TO to DT the DIR right 
+IRMRP ON on DT the DIR right 
+IRMRP RB ahead TO to DT the DIR left 
+IRMRP TO to DT the JJ far DIR right 
+IRMRP TO to DT the RB right 
+IRMRP ON on DT the DIR right 
+IRMRP TO to DT the JJ far DIR right 
+IRMRP TO to DT the DIR right 
+IRMRP ON on DT the DIR right 

@@ -1,0 +1,30 @@
+ORMRP VB turn DIR left 
+ORMRP VB turn DIR left 
+ORMRP VB take DT a DIR left 
+ORMRP VB turn DIR left 
+ORMRP VB turn DIR left CC and 
+ORMRP VB take DT a DIR left 
+ORMRP VB turn DIR left 
+ORMRP VB turn DIR left 
+ORMRP VB take DT a DIR left 
+ORMRP VB turn DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP ON on DT the DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP ON on DT the DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP ON on DT the DIR left 
+ORMRP TO to DT the DIR left 
+ORMRP TO to DT the DIR right 
+ORMTP DT the RM bedroom 
+ORMRP TO to DT the DIR left 
+ORMTP DT the RM bedroom 
+ORMRP TO to DT the DIR left 
+ORMTP DT the RM bedroom 
+ORMRP TO to DT the DIR left 
+ORMTP DT the RM bedroom 
+ORMRP TO to DT the DIR left 
+ORMTP DT the RM bedroom 
+ORMRP ON on DT the DIR left 

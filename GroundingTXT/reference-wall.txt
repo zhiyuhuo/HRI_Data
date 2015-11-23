@@ -1,0 +1,4 @@
+IRMRP VB go RB forward IN until PRP you VBD hit DT the STR wall 
+IRMRP VB go RB forward IN until PRP you VBD hit DT the STR wall 
+IRMRP ON on DT the DIR left STR wall 
+IRMRP IN against DT the DIR left STR wall 

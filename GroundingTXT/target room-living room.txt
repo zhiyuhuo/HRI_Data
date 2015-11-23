@@ -1,0 +1,29 @@
+ORMRP VB turn DIR right 
+ORMRP VB take DT a DIR right 
+ORMRP VB turn DIR right 
+ORMRP VB turn DIR right 
+ORMRP VB take DT a DIR right 
+ORMRP VB turn DIR right 
+ORMRP VB turn DIR right CC and 
+ORMRP VB take DT a DIR right 
+ORMRP VB turn DIR right 
+ORMRP VB turn DIR right 
+ORMRP VB take DT a DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP TO to DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP TO to DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP TO to DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMRP ON on DT the DIR right 
+ORMTP NN living RM room 
+ORMRP ON on DT the DIR right 
+ORMTP NN living RM room 
+ORMRP ON on DT the DIR right 
+ORMTP DT the NN living RM room 
+ORMRP ON on DT the DIR right 
+ORMTP DT the NN living RM room 
+ORMRP ON on DT the DIR right 

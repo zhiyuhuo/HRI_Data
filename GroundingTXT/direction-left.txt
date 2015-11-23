@@ -1,0 +1,12 @@
+IRMRP VB turn DIR left 
+IRMRP RB then DIR left RB again 
+IRMRP RB ahead TO to PRP your DIR left 
+IRMRP VB turn DIR left 
+IRMRP RB then DIR left RB again 
+IRMRP RB ahead TO to PRP your DIR left 
+FURRP TO to DT the DIR left IN of DT the FUR bed 
+IRMRP ON on DT the DIR left STR wall 
+IRMRP RB ahead TO to DT the DIR left 
+IRMRP IN against DT the DIR left STR wall 
+IRMRP RB ahead TO to DT the DIR left 
+FURRP TO to DT the DIR left IN of DT the FUR bed 

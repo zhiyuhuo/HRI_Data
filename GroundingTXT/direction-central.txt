@@ -1,0 +1,8 @@
+IRMRP VB walk RB straight IN about NN halfway IN in 
+IRMRP VB move IN about NN halfway IN in 
+IRMRP VB walk RB straight IN about NN halfway IN in 
+IRMRP VB move IN about NN halfway IN in  
+IRMRP VB walk RB straight IN about NN halfway IN in 
+IRMRP VB move IN about NN halfway IN in 
+IRMRP VB walk RB straight IN about NN halfway IN in 
+IRMRP IN about NN halfway IN in  

@@ -1,0 +1,19 @@
+IRMRP VB go RB forward 
+IRMRPVB turn DIR right 
+IRMRP VB turn DIR left 
+IRMRP RB then DIR left RB again 
+IRMRP RB then VB turn DIR right 
+IRMRP VB go RB forward 
+IRMRP VB go RB forward 
+IRMRP VB turn DIR right 
+IRMRP VB turn DIR left 
+IRMRP RB then DIR left RB again 
+IRMRP RB then VB turn DIR right 
+IRMRP VB go RB forward TO to 
+IRMRP VB go RB forward 
+IRMRP VB turn DIR right CC and 
+IRMRP VB walk RB straight IN until PRP you VBP are IN at 
+IRMRP RB then VB turn DIR right 
+IRMRP VB go RB forward 
+IRMRP VB go RB forward 
+IRMRP VB turn DIR right 

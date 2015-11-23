@@ -1,0 +1,6 @@
+OBTP EX there VBZ is DT the NN mug 
+OBTP EX there VBZ is DT the NN mug 
+OBTP EX there VBZ is DT the NN mug 
+OBTP DT the NN mug VBZ is 
+OBTP DT the NN mug VBZ is 
+OBTP DT the NN mug VBZ is IN in 

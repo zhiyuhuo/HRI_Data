@@ -1,0 +1,36 @@
+<ALL>
+    <sample>
+        <CHUNKNAME>IRMRP</CHUNKNAME>
+        <VB>go</VB>
+        <RB>forward</RB>
+        <IN>until</IN>
+        <PRP>you</PRP>
+        <VBD>hit</VBD>
+        <DT>the</DT>
+        <STR>wall</STR>
+    </sample>
+    <sample>
+        <CHUNKNAME>IRMRP</CHUNKNAME>
+        <VB>go</VB>
+        <RB>forward</RB>
+        <IN>until</IN>
+        <PRP>you</PRP>
+        <VBD>hit</VBD>
+        <DT>the</DT>
+        <STR>wall</STR>
+    </sample>
+    <sample>
+        <CHUNKNAME>IRMRP</CHUNKNAME>
+        <ON>on</ON>
+        <DT>the</DT>
+        <DIR>left</DIR>
+        <STR>wall</STR>
+    </sample>
+    <sample>
+        <CHUNKNAME>IRMRP</CHUNKNAME>
+        <IN>against</IN>
+        <DT>the</DT>
+        <DIR>left</DIR>
+        <STR>wall</STR>
+    </sample>
+</ALL>

@@ -1,0 +1,14 @@
+IRMRP VB go RB forward 
+IRMRP VB go RB forward IN until PRP you VBD hit DT the STR wall 
+IRMRP VB go RB forward 
+IRMRP VB go RB forward 
+IRMRP VB go RB forward IN until PRP you VBD hit DT the STR wall 
+IRMRP VB go RB forward TO to 
+FURRP IN in NN front IN of DT the FUR couch 
+IRMRP VB go RB forward 
+IRMRP VB walk RB straight IN until PRP you VBP are IN at 
+IRMRP VB go RB forward 
+IRMRP VB go RB forward 
+FURRP IN in NN front IN of DT the FUR couch 
+FURRP IN in NN front IN of DT the FUR couch 
+FURRP IN in NN front IN of DT the FUR couch 
