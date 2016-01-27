@@ -1,1 +1,1 @@
-<ALL><S><ORMTP><IN>go</IN><ORMRP><TO>to</TO><DT>the</DT></ORMRP><ORMTP><NN>bedroom</NN></ORMTP></ORMTP><O><RB>then</RB></O><IRMRP><VB>move</VB><RB>forward</RB></IRMRP><O><CC>and</CC><RB>then</RB></O><IRMRP><VB>turn</VB><RB>right</RB></IRMRP><O><CC>and</CC></O><OBTP><PRP>you</PRP><MD>will</MD><VB>find</VB><DT>the</DT><NN>mug</NN></OBTP></S></ALL>
+<ALL><S><OBTP><DT>the</DT><NN>mug</NN><VBZ>is</VBZ><FURTP><IN>on</IN><DT>the</DT><NN>table</NN></FURTP><IRMRP><IN>on</IN><DT>the</DT><NN>right</NN></IRMRP><ORMTP><IN>in</IN><DT>the</DT><NN>bedroom</NN></ORMTP></OBTP></S></ALL>
