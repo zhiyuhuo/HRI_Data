@@ -1,0 +1,4 @@
+non, non, room, center, non
+non, non, move, right, non
+non, non, move, front, non
+non, non, couch, front, table

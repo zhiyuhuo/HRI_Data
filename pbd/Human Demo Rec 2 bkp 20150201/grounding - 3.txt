@@ -1,0 +1,2 @@
+bedroom, N/A, N/A, N/A, N/A
+N/A, N/A, room, back, table

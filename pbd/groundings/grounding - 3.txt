@@ -1,0 +1,2 @@
+non, non, move, left, non
+non, non, bed, right, table

@@ -1,0 +1,2 @@
+non, non, wall, front, non
+non, non, chair, beside, table

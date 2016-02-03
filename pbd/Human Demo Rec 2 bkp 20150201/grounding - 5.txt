@@ -1,0 +1,5 @@
+livingroom, N/A, N/A, N/A, N/A
+N/A, N/A, move, front, N/A
+N/A, N/A, move, right, N/A
+N/A, N/A, move, front, N/A
+N/A, N/A, robot, right, table

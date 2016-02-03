@@ -1,0 +1,4 @@
+livingroom, N/A, N/A, N/A, N/A
+N/A, N/A, move, front, N/A
+N/A, N/A, wall, front, N/A
+N/A, N/A, chair, front, table

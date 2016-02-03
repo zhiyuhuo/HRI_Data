@@ -1,0 +1,5 @@
+non, non, move, front, non
+non, non, move, left, non
+non, non, wall, front, non
+non, non, move, left, non
+non, non, bed, left, table

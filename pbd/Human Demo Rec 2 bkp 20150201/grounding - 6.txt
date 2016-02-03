@@ -1,0 +1,3 @@
+livingroom, N/A, N/A, N/A, N/A
+N/A, N/A, room, center, N/A
+N/A, N/A, couch, front, table
