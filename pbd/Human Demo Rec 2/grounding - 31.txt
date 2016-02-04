@@ -1,0 +1,4 @@
+N/A, N/A, N/A, N/A, N/A
+bedroom, N/A, N/A, N/A, N/A
+N/A, N/A, N/A, N/A, N/A
+living_room, N/A, N/A, N/A, N/A
