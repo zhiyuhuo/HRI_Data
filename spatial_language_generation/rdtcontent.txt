@@ -7,7 +7,7 @@ couch_front_non: in front of the couch
 fork: the fork will be
 glasses case: the glasses case is in
 laptop: the laptop is in
-living room: in the living room
+livingroom: in the living room
 monitor: the monitor is
 move_front_non: walk straight until you are at
 move_non_non: go forward to
