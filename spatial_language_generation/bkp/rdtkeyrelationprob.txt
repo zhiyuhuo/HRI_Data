@@ -35,7 +35,7 @@ laptop-non_non_table: 0  0  1  0  0  0
 laptop-room_back_non: 0  0  1  0  0  0
 livingroom-: 0  1  0  0  0  0
 livingroom-fork: 0  1  0  0  0  0
-livingroom-glasses case: 0  1  0  0  0  0
+livingroom-glassescase: 0  1  0  0  0  0
 livingroom-laptop: 0  1  0  0  0  0
 livingroom-livingroom: 0     0.47222     0.47222           0           0    0.055556
 livingroom-move_front_non: 0  0  0  0  1  0
@@ -63,7 +63,7 @@ mug-wall_right_non: 0  0  1  0  0  0
 non_non_non-: 0           0     0.33333     0.66667           0           0
 non_non_non-bedroom: 0  0  1  0  0  0
 non_non_non-fork: 0  1  0  0  0  0
-non_non_non-glasses case: 0  1  0  0  0  0
+non_non_non-glassescase: 0  1  0  0  0  0
 non_non_non-laptop: 0  1  0  0  0  0
 non_non_non-livingroom: 0  0  1  0  0  0
 non_non_non-monitor: 0  1  0  0  0  0
@@ -85,7 +85,7 @@ non_non_table-chair_beside_non: 0           0     0.94118           0    0.05882
 non_non_table-couch_back_non: 0  0  1  0  0  0
 non_non_table-couch_front_non: 0  0  1  0  0  0
 non_non_table-fork: 0  1  0  0  0  0
-non_non_table-glasses case: 0  1  0  0  0  0
+non_non_table-glassescase: 0  1  0  0  0  0
 non_non_table-laptop: 0  1  0  0  0  0
 non_non_table-livingroom: 0  0  0  0  0  1
 non_non_table-monitor: 0  1  0  0  0  0
@@ -106,7 +106,7 @@ robot_left_non-statue: 0  1  0  0  0  0
 robot_right_non-couch_back_non: 0  0  0  0  1  0
 robot_right_non-couch_front_non: 0  0  0  0  1  0
 robot_right_non-fork: 0  1  0  0  0  0
-robot_right_non-glasses case: 0  1  0  0  0  0
+robot_right_non-glassescase: 0  1  0  0  0  0
 robot_right_non-livingroom: 0  0  0  0  0  1
 robot_right_non-move_front_non: 0  0  0  0  1  0
 robot_right_non-non_non_non: 0  0  0  0  0  1
@@ -117,12 +117,12 @@ room_back_non-livingroom: 0  0  0  0  0  1
 room_back_non-non_non_non: 0  0  0  0  0  1
 room_back_non-non_non_table: 0     0.66667           0           0     0.33333           0
 room_center_non-: 0           0           0           0     0.57143     0.42857
-room_center_non-glasses case: 0  1  0  0  0  0
+room_center_non-glassescase: 0  1  0  0  0  0
 room_center_non-monitor: 0  0  0  0  1  0
 room_center_non-non_non_non: 0  0  0  0  0  1
 room_center_non-robot_right_non: 0  0  0  0  1  0
 room_right_non-chair_beside_non: 0           0           0           0     0.66667     0.33333
-room_right_non-glasses case: 0  1  0  0  0  0
+room_right_non-glassescase: 0  1  0  0  0  0
 room_right_non-livingroom: 0  0  0  0  0  1
 room_right_non-mug: 0  1  0  0  0  0
 room_right_non-non_non_non: 0  0  0  0  0  1
