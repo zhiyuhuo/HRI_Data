@@ -1,7 +1,8 @@
 bed_left_non: to the left of the bed
 bed_right_non: to the right of the bed
 bedroom: in the bedroom
-chair_beside_non: with the chairs
+chair_beside_table: with the chairs
+chair_beside_non: beside chairs
 couch_back_non: behind the couch
 couch_front_non: in front of the couch
 couch_left_non: to the left of the couch
@@ -21,7 +22,7 @@ robot_left_non: ahead to your left
 robot_right_non: to the right
 room_back_non: at the back
 room_center_non: move about halfway in
-room_right_non: to the far right
+room_right_non: to the room right
 statue: the statue will be
 wall_beside_non: against the wall
 wall_left_non: against the left wall

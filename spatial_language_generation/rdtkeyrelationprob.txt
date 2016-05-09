@@ -11,7 +11,7 @@ bedroom-room_center_non: 0  0  0  0  0  1
 chair_beside_non-: 0  0  0  0  0  1
 chair_beside_non-non_non_table: 0  1  0  0  0  0
 chair_beside_non-room_back_non: 0  0  0  0  0  1
-chair_beside_non-room_right_non: 0           0           0           0     0.33333     0.66667
+chair_beside_non-room_right_non: 0           0           0           0     0.66667     0.33333
 chair_beside_non-wall_beside_non: 0  0  0  0  0  1
 chair_beside_non-wall_right_non: 0  0  0  0  1  0
 couch_back_non-non_non_table: 0  1  0  0  0  0
@@ -121,7 +121,7 @@ room_center_non-obj: 0  1  0  0  0  0
 room_center_non-obj: 0  0  0  0  1  0
 room_center_non-non_non_non: 0  0  0  0  0  1
 room_center_non-robot_right_non: 0  0  0  0  1  0
-room_right_non-chair_beside_non: 0           0           0           0     0.66667     0.33333
+room_right_non-chair_beside_non: 0           0           0           0     0.33333     0.66667
 room_right_non-obj: 0  1  0  0  0  0
 room_right_non-livingroom: 0  0  0  0  0  1
 room_right_non-obj: 0  1  0  0  0  0

@@ -1,7 +1,7 @@
 bed_left_non: to the left of the bed
 bed_right_non: to the right of the bed
 bedroom: take a left
-chair_beside_non: beside chairs
+chair_beside_non: with the chairs
 couch_back_non: behind the couch
 couch_front_non: in front of the couch
 fork: the fork will be

@@ -11,7 +11,7 @@ bedroom-room_right_non: 0  0  0  0  1  0
 bedroom-statue: 0  1  0  0  0  0
 bedroom-wall_beside_non: 0  0  0  0  1  0
 bedroom-wall_left_non: 0  0  0  0  1  0
-chair_beside_non-non_non_table: 0  1  0  0  0  0
+chair_beside_non-non_non_table: 1  0  0  0  0  0
 chair_beside_non-room_back_non: 0  0  0  0  0  1
 chair_beside_non-room_right_non: 0           0           0           0     0.33333     0.66667
 chair_beside_non-wall_back_non: 0  0  0  0  0  1
