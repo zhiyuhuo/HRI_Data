@@ -1,0 +1,5 @@
+bedroom
+mug
+room_center_non
+bed_right_non
+non_non_table
