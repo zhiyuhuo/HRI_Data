@@ -22,7 +22,7 @@ robot_left_non: ahead to your left
 robot_right_non: to the right
 room_back_non: at the back
 room_center_non: move about halfway in
-room_right_non: to the far right wall
+room_right_non: to the room right
 statue: the statue will be
 wall_beside_non: against the wall
 wall_left_non: against the left wall
