@@ -1,0 +1,6 @@
+N/A, N/A, N/A, N/A, N/A
+N/A, N/A, couch, front, table
+N/A, N/A, N/A, N/A, N/A
+N/A, N/A, couch, left, table
+N/A, N/A, N/A, N/A, N/A
+N/A, N/A, couch, right, table

@@ -1,2 +1,4 @@
 N/A, N/A, N/A, N/A, N/A
+N/A, N/A, bed, left, table
+N/A, N/A, N/A, N/A, N/A
 N/A, N/A, bed, right, table
