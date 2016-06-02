@@ -44,14 +44,14 @@ define bedtop model
 define couch model
 (
   size [ 0.600 2.000 0.500 ]
-  couchtop(pose [ -0.300 0.000 0.000 0.000 ] color "red")
+  couchtop(pose [ -0.300 0.000 0.000 0.000 ] color "green")
   gui_nose 0
 )
 
 define bed model
 (
   size [ 2.000 1.200 0.500 ]
-  bedtop(pose [ -0.950 0.000 0.000 0.000 ] color "green")
+  bedtop(pose [ -0.950 0.000 0.000 0.000 ] color "red")
   gui_nose 0
 )
 
