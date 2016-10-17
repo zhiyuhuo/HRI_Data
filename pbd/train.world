@@ -120,7 +120,7 @@ window
 floorplan
 ( 
   name "trainer"
-  bitmap "trainer.bmp"
+  bitmap "trainer.pgm"
   size [ 20.000 20.000 1.000 ]
   pose [ 0.000 0.000 0.000 0.000 ]
 )
