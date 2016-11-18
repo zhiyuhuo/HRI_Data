@@ -1,0 +1,13 @@
+non_obj_non_non_non 1
+bedroom_non_non_non_non 0.813632
+livingroom_non_non_non_non 0
+non_non_bed_left_table 6.60696e-08
+non_non_bed_right_table 0.00243203
+non_non_chair_beside_table 0.536128
+non_non_couch_back_table 0
+non_non_couch_front_table 0
+non_non_couch_left_table 0
+non_non_couch_right_table 0
+non_non_room_center_non 0.376374
+non_non_room_right_non 0.574018
+non_non_wall_front_non 0
