@@ -1,1 +1,1 @@
-<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN><RB>then</RB></ORMTP><OBTP><PRP>you</PRP><MD>will</MD><VB>find</VB><DT>the</DT><NN>laptop</NN><FURTP><IN>on</IN><DT>the</DT><NN>table</NN><FURRP><IN>by</IN><DT>the</DT><NN>chair</NN></FURRP></FURTP></OBTP></S></ALL>
+<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN></ORMTP><O><RB>then</RB></O><OBTP><PRP>you</PRP><MD>will</MD><VB>find</VB><DT>the</DT><NN>laptop</NN><FURTP><IN>on</IN><DT>the</DT><NN>table</NN><FURRP><IN>by</IN><DT>the</DT><NN>chair</NN></FURRP></FURTP></OBTP></S></ALL>

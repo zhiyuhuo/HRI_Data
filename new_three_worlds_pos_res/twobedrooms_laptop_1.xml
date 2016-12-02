@@ -1,1 +1,1 @@
-<ALL><S><ORMTP><VB>go</VB><RB>forward</RB><CC>and</CC></ORMTP><OBTP><DT>the</DT><NN>laptop</NN><VBZ>is</VBZ><FURTP><IN>on</IN><DT>the</DT><NN>table</NN><IRMRP><RB>ahead</RB><TO>to</TO><PRP>your</PRP><NN>left</NN></IRMRP></FURTP></OBTP></S></ALL>
+<ALL><S><ORMTP><VB>go</VB></ORMTP><IRMRP><RB>forward</RB></IRMRP><O><CC>and</CC></O><OBTP><DT>the</DT><NN>laptop</NN><VBZ>is</VBZ><FURTP><IN>on</IN><DT>the</DT><NN>table</NN><IRMRP><RB>ahead</RB><TO>to</TO><PRP>your</PRP><NN>left</NN></IRMRP></FURTP></OBTP></S></ALL>
