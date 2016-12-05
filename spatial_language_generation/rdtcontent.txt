@@ -11,6 +11,9 @@ fork: the fork will be
 glassescase: the glasses case is in
 laptop: the laptop is in
 livingroom: in the living room
+officeroom: in the office
+meetingroom: in the meeting room
+studioroom: in the studio room
 monitor: the monitor is
 move_front_non: walk straight until you are at
 move_non_non: go forward to
