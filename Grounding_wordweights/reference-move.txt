@@ -1,0 +1,9 @@
+IRMRP:
+left 0.186047
+right 0.418605
+forward 0.069767
+again 0.093023
+forward 0.325581
+then 0.279070
+go 0.395349
+turn 0.511628

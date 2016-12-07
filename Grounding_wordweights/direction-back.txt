@@ -1,0 +1,12 @@
+FURRP:
+couch 1.000000
+behind 1.000000
+IRMRP:
+until 0.333333
+back 0.666667
+end 0.333333
+you 0.333333
+straight 0.333333
+room 0.333333
+walk 0.333333
+are 0.333333

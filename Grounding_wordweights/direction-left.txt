@@ -1,0 +1,13 @@
+FURRP:
+left 1.000000
+bed 1.000000
+IRMRP:
+left 1.000000
+against 0.055556
+side 0.055556
+your 0.277778
+again 0.222222
+ahead 0.444444
+then 0.222222
+wall 0.111111
+turn 0.222222

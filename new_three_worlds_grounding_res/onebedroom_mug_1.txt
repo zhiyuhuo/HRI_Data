@@ -1,0 +1,1 @@
+target_object:statue,target_room:livingroom,tar:table,ref:room,dir:right,

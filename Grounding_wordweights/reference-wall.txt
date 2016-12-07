@@ -1,0 +1,14 @@
+IRMRP:
+left 0.153846
+right 0.076923
+against 0.461538
+until 0.384615
+far 0.076923
+side 0.076923
+you 0.384615
+forward 0.307692
+straight 0.076923
+wall 1.000000
+go 0.384615
+hit 0.307692
+are 0.076923

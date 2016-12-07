@@ -2,9 +2,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>laptop</NN>
@@ -12,9 +10,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>laptop</NN>
@@ -22,8 +18,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-        <VBP>aaa</VBP>
-        <NN>ll</NN>
+	<MD>will</MD>
         <NN>find</NN>
         <DT>the</DT>
         <NN>laptop</NN>

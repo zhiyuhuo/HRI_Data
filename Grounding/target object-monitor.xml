@@ -2,9 +2,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+    	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>monitor</NN>
@@ -12,9 +10,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+    	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>monitor</NN>
@@ -22,9 +18,7 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+    	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>monitor</NN>
@@ -32,11 +26,15 @@
     <sample>
         <CHUNKNAME>OBTP</CHUNKNAME>
         <PRP>you</PRP>
-    </sample>
-    <sample>
-        <CHUNKNAME>ll</CHUNKNAME>
+    	<MD>will</MD>
         <VB>find</VB>
         <DT>the</DT>
         <NN>monitor</NN>
+    </sample>
+    <sample>
+        <CHUNKNAME>OBTP</CHUNKNAME>
+        <DT>the</DT>
+        <NN>monitor</NN>
+        <VBZ>is</VBZ>
     </sample>
 </ALL>

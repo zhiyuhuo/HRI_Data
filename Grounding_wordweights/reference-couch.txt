@@ -1,0 +1,4 @@
+FURRP:
+couch 1.000000
+behind 0.500000
+front 0.500000

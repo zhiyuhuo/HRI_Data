@@ -1,0 +1,5 @@
+ORMTP:
+right 0.200000
+studio 1.000000
+room 0.900000
+take 0.100000

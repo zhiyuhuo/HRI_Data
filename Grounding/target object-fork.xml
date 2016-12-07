@@ -52,4 +52,12 @@
         <VBZ>is</VBZ>
         <IN>in</IN>
     </sample>
+    <sample>
+	<CHUNKNAME>OBTP</CHUNKNAME>
+	<PRP>you</PRP>
+	<MD>will</MD>
+	<VB>find</VB>
+	<DT>the</DT>
+	<NN>fork</NN>
+    </sample>
 </ALL>

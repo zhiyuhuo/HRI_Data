@@ -655,7 +655,7 @@
 <ORMTP>
 <IN>in</IN>
 <DT>the</DT>
-<NN>living</NN>
+<NN>meeting</NN>
 <RM>room</RM>
 </ORMTP>
 <IRMRP>
@@ -676,7 +676,7 @@
 <ORMTP>
 <IN>in</IN>
 <DT>the</DT>
-<NN>living</NN>
+<NN>meeting</NN>
 <RM>room</RM>
 </ORMTP>
 <IRMRP>
@@ -1846,7 +1846,7 @@
 <VB>go</VB>
 <TO>to</TO>
 <DT>the</DT>
-<NN>living</NN>
+<NN>meeting</NN>
 <RM>room</RM>
 </ORMTP>
 <CC>and</CC>
@@ -3189,7 +3189,7 @@
 <VB>go</VB>
 <TO>to</TO>
 <DT>the</DT>
-<NN>living</NN>
+<NN>meeting</NN>
 <RM>room</RM>
 </ORMTP>
 <CC>and</CC>

@@ -39,4 +39,19 @@
         <VBZ>is</VBZ>
         <IN>in</IN>
     </sample>
+    <sample>
+        <CHUNKNAME>OBTP</CHUNKNAME>
+        <DT>the</DT>
+        <NN>mug</NN>
+        <MD>will</MD>
+        <VB>be</VB>
+    </sample>
+    <sample>
+	<CHUNKNAME>OBTP</CHUNKNAME>
+	<PRP>you</PRP>
+	<MD>will</MD>
+	<VB>find</VB>
+	<DT>the</DT>
+	<NN>mug</NN>
+    </sample>
 </ALL>

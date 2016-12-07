@@ -1,0 +1,7 @@
+ORMRP:
+and 0.025000
+left 1.000000
+take 0.075000
+turn 0.425000
+ORMTP:
+bedroom 1.000000

@@ -165,4 +165,24 @@
         <DT>the</DT>
         <DIR>right</DIR>
     </sample>
+    <sample>
+    <CHUNKNAME>ORMTP</CHUNKNAME>
+	<VB>go</VB>
+	<TO>to</TO>
+	<DT>the</DT>
+	<NN>living</NN>
+	<NN>room</NN>
+    </sample>
+    <sample>
+        <CHUNKNAME>ORMTP</CHUNKNAME>
+	<IN>in</IN>
+        <DT>the</DT>
+        <NN>living</NN>
+        <RM>room</RM>
+    </sample>
+    <sample>
+        <CHUNKNAME>ORMTP</CHUNKNAME>
+        <NN>living</NN>
+        <NN>room</NN>
+    </sample>
 </ALL>

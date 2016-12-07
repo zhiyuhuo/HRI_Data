@@ -1,0 +1,7 @@
+IRMRP:
+about 1.000000
+halfway 1.000000
+straight 0.500000
+go 0.250000
+move 0.500000
+walk 0.250000

@@ -1,0 +1,7 @@
+FURRP:
+couch 1.000000
+front 1.000000
+IRMRP:
+forward 0.187500
+forward 0.812500
+go 1.000000

@@ -1,0 +1,15 @@
+FURRP:
+chairs 1.000000
+chair 1.000000
+by 0.285714
+with 0.714286
+IRMRP:
+against 0.500000
+until 0.500000
+you 0.500000
+forward 0.400000
+straight 0.100000
+wall 1.000000
+go 0.500000
+hit 0.400000
+are 0.100000

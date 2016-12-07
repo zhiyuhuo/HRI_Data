@@ -1,0 +1,5 @@
+FURRP:
+chairs 1.000000
+chair 1.000000
+by 0.285714
+with 0.714286

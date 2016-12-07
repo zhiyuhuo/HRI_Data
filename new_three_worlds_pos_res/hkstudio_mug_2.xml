@@ -1,1 +1,1 @@
-<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN></ORMTP><O><CC>and</CC></O><IRMRP><VB>go</VB></IRMRP></S></ALL>
+<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN></ORMTP><O><CC>and</CC></O><IRMRP><VB>go</VB><RB>about</RB><RB>halfway</RB><IN>in</IN></IRMRP><O><CC>and</CC></O><OBTP><DT>the</DT><NN>mug</NN><MD>will</MD><VB>be</VB><FURTP><IN>on</IN><DT>the</DT><NN>table</NN></FURTP></OBTP></S></ALL>

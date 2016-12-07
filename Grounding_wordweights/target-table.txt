@@ -1,0 +1,7 @@
+FURTP:
+nightstand 0.230769
+table 0.769231
+back 0.019231
+top 0.096154
+forward 0.019231
+go 0.019231

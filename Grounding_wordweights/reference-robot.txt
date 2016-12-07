@@ -1,0 +1,8 @@
+IRMRP:
+left 0.333333
+right 0.541667
+side 0.083333
+your 0.208333
+ahead 0.333333
+directly 0.083333
+right 0.125000

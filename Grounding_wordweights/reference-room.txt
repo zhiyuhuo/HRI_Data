@@ -1,0 +1,15 @@
+IRMRP:
+right 0.208333
+about 0.708333
+until 0.041667
+far 0.166667
+back 0.083333
+end 0.125000
+halfway 0.708333
+you 0.041667
+straight 0.375000
+room 0.041667
+go 0.166667
+move 0.333333
+walk 0.208333
+are 0.041667

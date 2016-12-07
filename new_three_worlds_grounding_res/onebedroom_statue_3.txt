@@ -1,0 +1,1 @@
+target_object:glassescase,target_room:studioroom,tar:table,ref:room,dir:front,tar:table,ref:room,dir:back,

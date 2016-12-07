@@ -1,0 +1,28 @@
+<ALL>
+    <sample>
+        <CHUNKNAME>ORMTP</CHUNKNAME>
+        <DT>the</DT>
+        <NN>meeting</NN>
+        <RM>room</RM>
+    </sample>
+    <sample>
+    <CHUNKNAME>ORMTP</CHUNKNAME>
+	<VB>go</VB>
+	<TO>to</TO>
+	<DT>the</DT>
+	<NN>meeting</NN>
+	<NN>room</NN>
+    </sample>
+    <sample>
+        <CHUNKNAME>ORMTP</CHUNKNAME>
+	<IN>in</IN>
+        <DT>the</DT>
+        <NN>meeting</NN>
+        <RM>room</RM>
+    </sample>
+    <sample>
+        <CHUNKNAME>ORMTP</CHUNKNAME>
+        <NN>meeting</NN>
+        <NN>room</NN>
+    </sample>
+</ALL>

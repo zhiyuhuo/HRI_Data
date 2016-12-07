@@ -1,0 +1,15 @@
+FURRP:
+right 1.000000
+bed 1.000000
+IRMRP:
+right 0.925000
+about 0.025000
+far 0.125000
+end 0.050000
+halfway 0.025000
+side 0.050000
+directly 0.050000
+right 0.075000
+then 0.200000
+wall 0.025000
+turn 0.450000
