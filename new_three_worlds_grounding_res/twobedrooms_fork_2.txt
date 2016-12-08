@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:meetingroom,tar:table,ref:room,dir:back,tar:table,ref:room,dir:front,ref:room,dir:right,tar:table,ref:room,dir:right,
+target_object:fork,target_room:officeroom,tar:table,ref:robot,dir:right,ref:couch,dir:front,
+the fork is in the office room on the table to the right end of the room

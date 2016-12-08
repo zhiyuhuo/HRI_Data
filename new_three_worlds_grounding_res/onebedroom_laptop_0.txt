@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:studioroom,tar:table,ref:room,dir:back,ref:room,dir:right,
+target_object:laptop,target_room:officeroom,tar:table,ref:chair,dir:beside,
+go to the office then you will find the laptop on the table by the chair

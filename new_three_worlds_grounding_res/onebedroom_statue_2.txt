@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:studioroom,tar:table,ref:room,dir:front,tar:table,ref:room,dir:back,
+target_object:mug,target_room:bedroom,tar:,ref:move,dir:front,tar:table,
+go to the bedroom then go forward you will find the statue on the table

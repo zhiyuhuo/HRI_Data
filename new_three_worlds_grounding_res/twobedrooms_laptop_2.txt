@@ -1,1 +1,2 @@
-target_object:statue,target_room:livingroom,tar:table,ref:room,dir:right,
+target_object:laptop,target_room:,tar:table,ref:chair,dir:beside,
+the laptop is on the table by the chairs

@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:meetingroom,tar:table,ref:room,dir:back,tar:table,ref:room,dir:right,
+target_object:fork,target_room:studioroom,tar:table,ref:chair,dir:beside,
+the fork is in the studio on the table by the chair

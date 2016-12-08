@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:livingroom,tar:table,ref:room,dir:front,tar:table,ref:room,dir:back,
+target_object:mug,target_room:,tar:,ref:move,dir:right,tar:,ref:move,dir:front,tar:table,
+turn right then go forward you will find the mug on the table

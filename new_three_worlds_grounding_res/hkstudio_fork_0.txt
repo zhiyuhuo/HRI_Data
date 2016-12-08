@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:studioroom,tar:table,ref:room,dir:back,ref:room,dir:front,
+target_object:fork,target_room:studioroom,tar:table,ref:robot,dir:left,
+go to the studio and the fork is on the table ahead to the left

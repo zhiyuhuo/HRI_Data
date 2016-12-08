@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:officeroom,tar:table,ref:room,dir:back,ref:room,dir:right,
+target_object:laptop,target_room:officeroom,tar:table,ref:chair,dir:back,
+the laptop is on the table in the office room

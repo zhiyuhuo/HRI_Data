@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:meetingroom,tar:table,ref:room,dir:back,tar:table,ref:room,dir:right,
+target_object:mug,target_room:livingroom,tar:table,ref:bed,dir:right,
+the mug is in the living room on the table to the right of the room

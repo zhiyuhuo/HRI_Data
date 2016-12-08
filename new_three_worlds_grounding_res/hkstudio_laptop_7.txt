@@ -1,1 +1,2 @@
-target_object:statue,target_room:livingroom,tar:table,ref:room,dir:back,tar:table,ref:room,dir:front,
+target_object:laptop,target_room:meetingroom,tar:table,ref:robot,dir:left,
+the laptop is in the meeting room on the table on the left

@@ -1,1 +1,2 @@
-target_object:glassescase,target_room:studioroom,tar:table,ref:room,dir:back,
+target_object:monitor,target_room:officeroom,tar:table,
+go to the office and then you will find the monitor on the table

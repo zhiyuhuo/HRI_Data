@@ -1,1 +1,1 @@
-<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN></ORMTP><O><CC>and</CC><RB>then</RB></O><IRMRP><VB>turn</VB><JJ>right</JJ></IRMRP><OBTP><PRP>you</PRP><MD>will</MD><VB>find</VB><DT>the</DT><NN>fork</NN><FURTP><IN>on</IN><DT>the</DT><NN>table</NN></FURTP></OBTP></S></ALL>
+<ALL><S><ORMTP><VB>go</VB><TO>to</TO><DT>the</DT><NN>office</NN></ORMTP><O><CC>and</CC><RB>then</RB></O><IRMRP><VB>turn</VB><JJ>right</JJ></IRMRP><O><CC>and</CC></O><OBTP><DT>the</DT><NN>fork</NN><VBZ>is</VBZ><FURTP><IN>on</IN><DT>the</DT><NN>table</NN></FURTP></OBTP></S></ALL>
