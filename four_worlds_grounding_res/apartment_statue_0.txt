@@ -1,0 +1,2 @@
+target_object:statue,target_room:bedroom,tar:table,ref:bed,dir:right,
+the statue is in the bedroom on the table to the right of the bed

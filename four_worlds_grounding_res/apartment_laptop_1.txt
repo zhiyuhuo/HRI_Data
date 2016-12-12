@@ -1,0 +1,2 @@
+target_object:laptop,target_room:livingroom,tar:,ref:room,dir:back,tar:,ref:chair,dir:beside,
+go to the living room and go straight until you are at the wall and you will find the laptop on the table with the chairs

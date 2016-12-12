@@ -1,0 +1,2 @@
+target_object:statue,target_room:bedroom,tar:table,ref:robot,dir:left,
+go to the bedroom and the statue will be on the nightstand ahead to your left

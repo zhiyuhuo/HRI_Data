@@ -1,0 +1,2 @@
+target_object:fork,target_room:studioroom,tar:,ref:move,dir:front,tar:,ref:move,dir:right,tar:,ref:robot,dir:right,
+go forward and turn right and the fork will be on the right

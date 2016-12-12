@@ -1,0 +1,2 @@
+target_object:statue,target_room:bedroom,tar:,ref:move,dir:left,
+go to the bedroom then turn left you will see the statue on the table

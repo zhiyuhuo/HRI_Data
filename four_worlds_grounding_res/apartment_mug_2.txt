@@ -1,0 +1,2 @@
+target_object:mug,target_room:bedroom,tar:table,ref:robot,dir:right,
+the mug is in the bedroom on the table to the far right

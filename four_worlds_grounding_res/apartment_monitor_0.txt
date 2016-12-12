@@ -1,0 +1,2 @@
+target_object:monitor,target_room:bedroom,tar:,ref:wall,dir:left,tar:,ref:bed,dir:right,
+go to the bedroom on the left you will find the monitor on top of the nightstand to the right of the bed
