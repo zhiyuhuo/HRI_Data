@@ -1,2 +1,2 @@
-target_object:fork,target_room:livingroom,tar:,ref:robot,dir:right,tar:,ref:robot,dir:right,
-the fork is in the living room on the right on the table directly to the right
+target_object:fork,target_room:livingroom,tar:table,ref:couch,dir:back,
+go to the living room and the fork will be on the table behind the couch
