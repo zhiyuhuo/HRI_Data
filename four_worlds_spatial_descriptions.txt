@@ -2,8 +2,8 @@ apartment_fork:
 the fork is in the living room on the right on the table directly to the right
 go to the living room and the fork will be on the table behind the couch
 apartment_mug:
-go to the living room then move about halfway in and then turn right go forward and there is the mug
-go to the living room then move about halfway in and then turn right go forward to the table with the chairs and there is the mug
+go to the bedroom then move about halfway in and then turn right go forward and there is the mug
+go to the bedroom then move about halfway in and then turn right go forward to the table with the chairs and there is the mug
 the mug is in the bedroom on the table to the far right
 the mug is in the bedroom to the left on the table by the chairs at the far right end
 apartment_statue:
