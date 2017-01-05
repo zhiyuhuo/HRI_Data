@@ -1,2 +1,2 @@
-target_object:mug,target_room:bedroom,tar:,ref:room,dir:center,tar:,ref:move,dir:right,tar:table,
+target_object:mug,target_room:bedroom,tar:,ref:room,dir:center,tar:,ref:move,dir:right,tar:,ref:move,dir:front,tar:table,
 go to the bedroom then move about halfway in and then turn right go forward and there is the mug

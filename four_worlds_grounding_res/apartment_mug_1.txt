@@ -1,2 +1,2 @@
-target_object:mug,target_room:livingroom,tar:,ref:room,dir:center,tar:table,ref:chair,dir:beside,tar:,ref:chair,dir:beside,
-go to the living room then move about halfway in and then turn right go forward to the table with the chairs and there is the mug
+target_object:mug,target_room:bedroom,tar:,ref:room,dir:center,tar:table,ref:chair,dir:beside,tar:,ref:chair,dir:beside,
+go to the bedroom then move about halfway in and then turn right go forward to the table with the chairs and there is the mug
