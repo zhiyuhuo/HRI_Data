@@ -1,2 +1,2 @@
-target_object:statue,target_room:studioroom,tar:table,ref:bed,dir:left,
+target_object:statue,target_room:studioroom,tar:,ref:room,dir:back,
 go to the studio and the statue is on the table at the end of the room
