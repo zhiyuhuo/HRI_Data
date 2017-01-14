@@ -1,2 +1,2 @@
-target_object:monitor,target_room:bedroom,tar:table,ref:bed,dir:left,
+target_object:monitor,target_room:bedroom,tar:table,ref:chair,dir:left,
 the monitor is in the bedroom on the table to the left of the chair

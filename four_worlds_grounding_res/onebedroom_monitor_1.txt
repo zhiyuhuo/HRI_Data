@@ -1,2 +1,2 @@
-target_object:monitor,target_room:bedroom,tar:,ref:move,dir:right,tar:,ref:robot,dir:right,
-go to the bedroom the turn right you will find the monitor on the right
+target_object:monitor,target_room:bedroom,tar:,ref:move,dir:right,tar:table,ref:,dir:,
+go to the bedroom the turn right you will find the monitor on the table

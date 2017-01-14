@@ -1,2 +1,2 @@
-target_object:mug,target_room:,tar:table,ref:bed,dir:left,
+target_object:mug,target_room:,tar:table,ref:couch,dir:left,
 the mug is on the table to the left of the couch
