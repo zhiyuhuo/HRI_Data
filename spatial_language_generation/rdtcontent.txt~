@@ -3,6 +3,8 @@ bed_right_non: to the right of the bed
 bedroom: in the bedroom
 chair_beside_table: with the chairs
 chair_beside_non: beside chairs
+chair_left_table: to the left of the chair
+chair_left_non: to the left of the chair
 couch_back_non: behind the couch
 couch_front_non: in front of the couch
 couch_left_non: to the left of the couch
@@ -11,6 +13,9 @@ fork: the fork will be
 glassescase: the glasses case is in
 laptop: the laptop is in
 livingroom: in the living room
+officeroom: in the office
+meetingroom: in the meeting room
+studioroom: in the studio room
 monitor: the monitor is
 move_front_non: walk straight until you are at
 move_non_non: go forward to
