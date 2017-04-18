@@ -5,6 +5,8 @@ chair_beside_table: with the chairs
 chair_beside_non: beside chairs
 chair_left_table: to the left of the chair
 chair_left_non: to the left of the chair
+chair_right_table: to the right of the chair
+chair_right_non: to the right of the chair
 couch_back_non: behind the couch
 couch_front_non: in front of the couch
 couch_left_non: to the left of the couch

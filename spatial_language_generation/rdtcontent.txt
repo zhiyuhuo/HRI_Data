@@ -11,9 +11,9 @@ couch_back_non: behind the couch
 couch_front_non: in front of the couch
 couch_left_non: to the left of the couch
 couch_right_non: to the right of the couch
-fork: the fork will be
-glassescase: the glasses case is in
-laptop: the laptop is in
+fork: the fork is 
+glassescase: there is the glasses case
+laptop: the laptop is
 livingroom: in the living room
 officeroom: in the office
 meetingroom: in the meeting room
@@ -22,7 +22,7 @@ monitor: the monitor is
 move_front_non: walk straight until you are at
 move_non_non: go forward to
 move_right_non: then turn right
-mug: there is the mug
+mug: the mug is
 non_non_non: come into the room
 non_non_table: on the table
 robot_left_non: ahead to your left
@@ -30,7 +30,7 @@ robot_right_non: to the right
 room_back_non: at the back
 room_center_non: move about halfway in
 room_right_non: to the far right wall
-statue: the statue will be
+statue: the statue is 
 wall_beside_non: against the wall
 wall_left_non: against the left wall
 wall_right_non: at the far right wall
